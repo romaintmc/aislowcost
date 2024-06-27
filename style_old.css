@@ -1,0 +1,110 @@
+#hg {
+  background-repeat:no-repeat;
+ background-image:url(BTS_SN_UBO.png);
+ background-position:top left;
+    margin-top: 0;
+    margin-bottom: 0;
+ }
+
+#hd {
+  background-repeat:no-repeat;
+ background-image:url(Marin_thuysan.png);
+ background-position:top right;
+ }
+#contenu {
+ margin-left:220px;
+ margin-right:200px;
+ }
+#contenu h1 {
+ text-align:center;
+  border: 0px solid #FFF;
+ background: #FFF;
+ height: 56px;
+margin-top: 0;
+color:#225588;
+ }
+
+  #page {
+    width: 40%;
+    padding: 2em 5%;
+    background: #fff;
+    margin: 1em auto;
+  }
+#wrapper {  
+    width: 500px;
+    margin: 100px auto;
+    font-size: 1.5em;
+    text-align : center;
+}
+body{
+    background: #225588;
+    width: 100%;
+}
+.info p{ color:#AAA; font-size:25px; margin:0 0 2px 0;}
+.panel h2, .panel p{  position: relative;color:#FFF; font-size:25px; margin:0 0 2px 0; text-align: center;}
+.styled {
+    border: 0;
+    line-height: 3.0;
+    padding: 10px 20px;
+    
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+    margin-bottom: 5px;
+}
+
+.styled:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #FFF;
+}
+
+aside > p {
+    margin: .5rem;
+}
+
+
+ .form-group{
+  margin-bottom:10px;
+     margin-top: 10px;
+     margin-left: 150px;
+     margin-right: 150px;
+     line-height: 3.0;
+     background: #FFF;
+     width: 200px;
+
+}
+ .form-group input{
+
+
+     line-height: 3.0;
+     background: #FFF;
+     width: 150px;
+
+}
+
+
+
+
+
+

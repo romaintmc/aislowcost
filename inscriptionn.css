@@ -1,0 +1,75 @@
+
+
+p,h2 {
+  margin-top: 0px;
+    color:#FFF; font-size:25px;
+}
+
+fieldset {
+  margin-bottom: 10px;
+  padding: 5px;
+    
+}
+ 
+legend {
+  padding: 0px 3px;
+  font-weight: bold;
+  font-variant: small-caps;
+  color:#FFF; font-size:25px;
+}
+ 
+label {
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 6px;
+    color:#FFF; font-size:20px;
+}
+ 
+em {
+  font-weight: bold;
+  font-style: normal;
+  color:  rgba(255, 0, 0, 1);
+}
+ 
+input:focus {
+  background: #eaeaea;
+}
+ 
+.styled {
+    border: 0;
+    line-height: 3.0;
+    padding: 2px 3px;
+    
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+    margin-bottom: 5px;
+}
+
+.styled:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+ 
+ 
+select {
+  width: 145px;
+}
+ 
+input[type=checkbox] {
+  width: 10px;
+}
+ 
